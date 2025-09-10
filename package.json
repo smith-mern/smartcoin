@@ -9,7 +9,7 @@
     "node": "16.15"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.3",
+    "@openzeppelin/contracts": "^4.9.6",
     "@openzeppelin/contracts-upgradeable": "4.8.3",
     "zod": "^3.23.8"
   },
