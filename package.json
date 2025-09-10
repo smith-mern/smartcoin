@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.3",
-    "@openzeppelin/contracts-upgradeable": "4.8.3",
+    "@openzeppelin/contracts-upgradeable": "4.9.6",
     "zod": "^3.23.8"
   },
   "devDependencies": {
